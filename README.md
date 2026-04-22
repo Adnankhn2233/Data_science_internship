@@ -1,4 +1,4 @@
-# Data Analysis Internship Tasks by DevelopersHub Corporation
+# Data Science Internship Tasks by DevelopersHub Corporation
 ## Tasks Overview
 - Task 1: Iris Dataset Exploration
 - Task 2: Credit Risk Prediction
